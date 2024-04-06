@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "name": "ABC Distribution",
+      "basicDiscount": "5",
+      "additionalDiscountLevel1": "0",
+      "additionalDiscountLevel2": "2"
+    },
+    {
+      "id": 2,
+      "name": "DEF Foods",
+      "basicDiscount": "4",
+      "additionalDiscountLevel1": "1",
+      "additionalDiscountLevel2": "2"
+    },
+    {
+      "id": 3,
+      "name": "GHI Trade",
+      "basicDiscount": "3",
+      "additionalDiscountLevel1": "1",
+      "additionalDiscountLevel2": "3"
+    },
+    {
+      "id": 4,
+      "name": "JKL Kiosks",
+      "basicDiscount": "2",
+      "additionalDiscountLevel1": "3",
+      "additionalDiscountLevel2": "5"
+    },
+    {
+      "id": 5,
+      "name": "MNO Vending",
+      "basicDiscount": "0",
+      "additionalDiscountLevel1": "5",
+      "additionalDiscountLevel2": "7"
+    }
+]
